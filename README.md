@@ -1,14 +1,12 @@
 
-####  :wave: About Me !
- <br/>
+####  :wave: ABOUT ME 
  Cryptocurrency Real Trader 
  <br/>
   
 ####  :clipboard: SKILLS 
- <br/>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=HTML5&logoColor=white">
-   <br/>
-   <br/>
+
+
 
 <!--
 **myeongwang/myeongwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
