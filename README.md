@@ -1,6 +1,6 @@
 
 ####  :wave: ABOUT ME 
- ##### Cryptocurrency Real Trader 
+ Cryptocurrency Real Trader 
  
   
 ####  :clipboard: SKILLS 
