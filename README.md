@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text= "I LOVE BTC")
+
+####  :wave: About Me !
+ <br/>
+ Cryptocurrency Real Trader 
+ <br/>
+  
+####  :clipboard: SKILLS 
+ <br/>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=HTML5&logoColor=white">
+   <br/>
+   <br/>
 
 <!--
 **myeongwang/myeongwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### ![myeongwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongwang&show_icons=true)   
