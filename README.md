@@ -1,7 +1,7 @@
 
 ####  :wave: ABOUT ME 
- Cryptocurrency Real Trader 
- <br/>
+ ##### Cryptocurrency Real Trader 
+ 
   
 ####  :clipboard: SKILLS 
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">   <img src="https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=Tether&logoColor=white">
