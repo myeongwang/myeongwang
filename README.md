@@ -1,6 +1,6 @@
 
 ####  :wave: ABOUT ME 
-  Real Cryptocurrency Trader 
+  Real Cryptocurrency Trader & AI Engineer LV.0
  
   
 ####  :clipboard: SKILLS 
